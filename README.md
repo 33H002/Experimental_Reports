@@ -3,7 +3,7 @@
 -----
 ### 1. DeepFashion
 - Image Retreival/Classificaiton (DeepFashion Dataset & Amazon Review Dataset) 
-* [W&B Report](https://wandb.ai/33h002/DeepFashion-pre/reports/Copy-of-DeepFashion-Report--VmlldzozMDUzNzYw?accessToken=zuzxor5p2sqynze4dmwpajynglvgpf85fe7ckgjbpqoqwzs7vr9dj2tr9mmadi88)
+* [W&B Report](https://wandb.ai/33h002/DeepFashion-public/reports/Copy-of-DeepFashion-Report--VmlldzozOTYzODI4)
 
 #### Notebook
 ```
