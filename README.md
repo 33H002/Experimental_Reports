@@ -8,7 +8,7 @@
 #### Notebook
 ```
     1. Pretraining.ipynb
-        - pretraining with some loss_fn
+        - pretraining with various learning frameworks
     
     2. LinearProtocol.ipynb
         - linear evaluation protocol (finetuning linear classification with frozen encoder)
